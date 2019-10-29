@@ -16,4 +16,3 @@ cd PFCalibration/PFChargedHadronAnalyzer/test/
 cmsenv
 cmsRun PGUnWithGeneration.py
 ```
-falana dhinka
